@@ -1,0 +1,738 @@
+{
+    "Ph": [
+        {
+            "rank": 1,
+            "wavelength": "410",
+            "importanceScore": 2424.0
+        },
+        {
+            "rank": 2,
+            "wavelength": "535",
+            "importanceScore": 1796.6666666666667
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 1439.3333333333333
+        },
+        {
+            "rank": 4,
+            "wavelength": "460",
+            "importanceScore": 1306.3333333333333
+        },
+        {
+            "rank": 5,
+            "wavelength": "610",
+            "importanceScore": 1149.0
+        },
+        {
+            "rank": 6,
+            "wavelength": "560",
+            "importanceScore": 1115.3333333333333
+        },
+        {
+            "rank": 7,
+            "wavelength": "680",
+            "importanceScore": 1081.6666666666667
+        },
+        {
+            "rank": 8,
+            "wavelength": "435",
+            "importanceScore": 1043.3333333333333
+        },
+        {
+            "rank": 9,
+            "wavelength": "860",
+            "importanceScore": 1036.0
+        },
+        {
+            "rank": 10,
+            "wavelength": "585",
+            "importanceScore": 1012.3333333333334
+        },
+        {
+            "rank": 11,
+            "wavelength": "510",
+            "importanceScore": 968.0
+        },
+        {
+            "rank": 12,
+            "wavelength": "645",
+            "importanceScore": 918.6666666666666
+        },
+        {
+            "rank": 13,
+            "wavelength": "760",
+            "importanceScore": 427.3333333333333
+        },
+        {
+            "rank": 14,
+            "wavelength": "810",
+            "importanceScore": 380.3333333333333
+        },
+        {
+            "rank": 15,
+            "wavelength": "705",
+            "importanceScore": 358.6666666666667
+        },
+        {
+            "rank": 16,
+            "wavelength": "730",
+            "importanceScore": 357.3333333333333
+        },
+        {
+            "rank": 17,
+            "wavelength": "900",
+            "importanceScore": 271.0
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 130.0
+        }
+    ],
+    "Nitro": [
+        {
+            "rank": 1,
+            "wavelength": "410",
+            "importanceScore": 1440.3333333333333
+        },
+        {
+            "rank": 2,
+            "wavelength": "535",
+            "importanceScore": 1128.3333333333333
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 992.0
+        },
+        {
+            "rank": 4,
+            "wavelength": "610",
+            "importanceScore": 853.6666666666666
+        },
+        {
+            "rank": 5,
+            "wavelength": "460",
+            "importanceScore": 785.6666666666666
+        },
+        {
+            "rank": 6,
+            "wavelength": "560",
+            "importanceScore": 777.6666666666666
+        },
+        {
+            "rank": 7,
+            "wavelength": "680",
+            "importanceScore": 760.0
+        },
+        {
+            "rank": 8,
+            "wavelength": "860",
+            "importanceScore": 735.3333333333334
+        },
+        {
+            "rank": 9,
+            "wavelength": "645",
+            "importanceScore": 627.3333333333334
+        },
+        {
+            "rank": 10,
+            "wavelength": "510",
+            "importanceScore": 598.3333333333334
+        },
+        {
+            "rank": 11,
+            "wavelength": "585",
+            "importanceScore": 592.3333333333334
+        },
+        {
+            "rank": 12,
+            "wavelength": "435",
+            "importanceScore": 573.6666666666666
+        },
+        {
+            "rank": 13,
+            "wavelength": "760",
+            "importanceScore": 273.3333333333333
+        },
+        {
+            "rank": 14,
+            "wavelength": "810",
+            "importanceScore": 258.0
+        },
+        {
+            "rank": 15,
+            "wavelength": "730",
+            "importanceScore": 237.33333333333334
+        },
+        {
+            "rank": 16,
+            "wavelength": "705",
+            "importanceScore": 227.0
+        },
+        {
+            "rank": 17,
+            "wavelength": "900",
+            "importanceScore": 179.33333333333334
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 86.0
+        }
+    ],
+    "Posh Nitro": [
+        {
+            "rank": 1,
+            "wavelength": "410",
+            "importanceScore": 1121.3333333333333
+        },
+        {
+            "rank": 2,
+            "wavelength": "535",
+            "importanceScore": 1038.0
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 870.3333333333334
+        },
+        {
+            "rank": 4,
+            "wavelength": "610",
+            "importanceScore": 775.6666666666666
+        },
+        {
+            "rank": 5,
+            "wavelength": "860",
+            "importanceScore": 713.0
+        },
+        {
+            "rank": 6,
+            "wavelength": "680",
+            "importanceScore": 696.6666666666666
+        },
+        {
+            "rank": 7,
+            "wavelength": "460",
+            "importanceScore": 682.6666666666666
+        },
+        {
+            "rank": 8,
+            "wavelength": "560",
+            "importanceScore": 628.6666666666666
+        },
+        {
+            "rank": 9,
+            "wavelength": "645",
+            "importanceScore": 550.6666666666666
+        },
+        {
+            "rank": 10,
+            "wavelength": "585",
+            "importanceScore": 547.6666666666666
+        },
+        {
+            "rank": 11,
+            "wavelength": "510",
+            "importanceScore": 437.3333333333333
+        },
+        {
+            "rank": 12,
+            "wavelength": "435",
+            "importanceScore": 432.0
+        },
+        {
+            "rank": 13,
+            "wavelength": "810",
+            "importanceScore": 261.0
+        },
+        {
+            "rank": 14,
+            "wavelength": "705",
+            "importanceScore": 232.66666666666666
+        },
+        {
+            "rank": 15,
+            "wavelength": "900",
+            "importanceScore": 217.0
+        },
+        {
+            "rank": 16,
+            "wavelength": "760",
+            "importanceScore": 205.66666666666666
+        },
+        {
+            "rank": 17,
+            "wavelength": "730",
+            "importanceScore": 203.0
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 45.333333333333336
+        }
+    ],
+    "Pota Nitro": [
+        {
+            "rank": 1,
+            "wavelength": "535",
+            "importanceScore": 1851.6666666666667
+        },
+        {
+            "rank": 2,
+            "wavelength": "410",
+            "importanceScore": 1624.6666666666667
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 1477.0
+        },
+        {
+            "rank": 4,
+            "wavelength": "610",
+            "importanceScore": 1265.0
+        },
+        {
+            "rank": 5,
+            "wavelength": "860",
+            "importanceScore": 1063.3333333333333
+        },
+        {
+            "rank": 6,
+            "wavelength": "680",
+            "importanceScore": 1055.3333333333333
+        },
+        {
+            "rank": 7,
+            "wavelength": "560",
+            "importanceScore": 1054.6666666666667
+        },
+        {
+            "rank": 8,
+            "wavelength": "585",
+            "importanceScore": 987.6666666666666
+        },
+        {
+            "rank": 9,
+            "wavelength": "460",
+            "importanceScore": 958.6666666666666
+        },
+        {
+            "rank": 10,
+            "wavelength": "435",
+            "importanceScore": 783.3333333333334
+        },
+        {
+            "rank": 11,
+            "wavelength": "645",
+            "importanceScore": 761.6666666666666
+        },
+        {
+            "rank": 12,
+            "wavelength": "510",
+            "importanceScore": 712.0
+        },
+        {
+            "rank": 13,
+            "wavelength": "730",
+            "importanceScore": 419.0
+        },
+        {
+            "rank": 14,
+            "wavelength": "760",
+            "importanceScore": 386.3333333333333
+        },
+        {
+            "rank": 15,
+            "wavelength": "810",
+            "importanceScore": 377.6666666666667
+        },
+        {
+            "rank": 16,
+            "wavelength": "705",
+            "importanceScore": 343.6666666666667
+        },
+        {
+            "rank": 17,
+            "wavelength": "900",
+            "importanceScore": 299.6666666666667
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 126.66666666666667
+        }
+    ],
+    "Capacitity Moist": [
+        {
+            "rank": 1,
+            "wavelength": "535",
+            "importanceScore": 1580.6666666666667
+        },
+        {
+            "rank": 2,
+            "wavelength": "410",
+            "importanceScore": 1432.6666666666667
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 1205.3333333333333
+        },
+        {
+            "rank": 4,
+            "wavelength": "860",
+            "importanceScore": 997.3333333333334
+        },
+        {
+            "rank": 5,
+            "wavelength": "610",
+            "importanceScore": 992.0
+        },
+        {
+            "rank": 6,
+            "wavelength": "680",
+            "importanceScore": 959.6666666666666
+        },
+        {
+            "rank": 7,
+            "wavelength": "460",
+            "importanceScore": 930.6666666666666
+        },
+        {
+            "rank": 8,
+            "wavelength": "560",
+            "importanceScore": 843.3333333333334
+        },
+        {
+            "rank": 9,
+            "wavelength": "585",
+            "importanceScore": 777.6666666666666
+        },
+        {
+            "rank": 10,
+            "wavelength": "645",
+            "importanceScore": 747.0
+        },
+        {
+            "rank": 11,
+            "wavelength": "510",
+            "importanceScore": 686.3333333333334
+        },
+        {
+            "rank": 12,
+            "wavelength": "435",
+            "importanceScore": 643.6666666666666
+        },
+        {
+            "rank": 13,
+            "wavelength": "760",
+            "importanceScore": 373.3333333333333
+        },
+        {
+            "rank": 14,
+            "wavelength": "810",
+            "importanceScore": 359.3333333333333
+        },
+        {
+            "rank": 15,
+            "wavelength": "730",
+            "importanceScore": 313.6666666666667
+        },
+        {
+            "rank": 16,
+            "wavelength": "900",
+            "importanceScore": 305.3333333333333
+        },
+        {
+            "rank": 17,
+            "wavelength": "705",
+            "importanceScore": 285.6666666666667
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 85.0
+        }
+    ],
+    "Temp": [
+        {
+            "rank": 1,
+            "wavelength": "535",
+            "importanceScore": 1252.3333333333333
+        },
+        {
+            "rank": 2,
+            "wavelength": "410",
+            "importanceScore": 1209.6666666666667
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 962.0
+        },
+        {
+            "rank": 4,
+            "wavelength": "680",
+            "importanceScore": 790.3333333333334
+        },
+        {
+            "rank": 5,
+            "wavelength": "610",
+            "importanceScore": 788.3333333333334
+        },
+        {
+            "rank": 6,
+            "wavelength": "860",
+            "importanceScore": 757.0
+        },
+        {
+            "rank": 7,
+            "wavelength": "460",
+            "importanceScore": 701.6666666666666
+        },
+        {
+            "rank": 8,
+            "wavelength": "645",
+            "importanceScore": 681.6666666666666
+        },
+        {
+            "rank": 9,
+            "wavelength": "560",
+            "importanceScore": 652.6666666666666
+        },
+        {
+            "rank": 10,
+            "wavelength": "585",
+            "importanceScore": 645.0
+        },
+        {
+            "rank": 11,
+            "wavelength": "435",
+            "importanceScore": 588.0
+        },
+        {
+            "rank": 12,
+            "wavelength": "510",
+            "importanceScore": 542.3333333333334
+        },
+        {
+            "rank": 13,
+            "wavelength": "810",
+            "importanceScore": 347.0
+        },
+        {
+            "rank": 14,
+            "wavelength": "900",
+            "importanceScore": 306.0
+        },
+        {
+            "rank": 15,
+            "wavelength": "760",
+            "importanceScore": 255.33333333333334
+        },
+        {
+            "rank": 16,
+            "wavelength": "730",
+            "importanceScore": 254.33333333333334
+        },
+        {
+            "rank": 17,
+            "wavelength": "705",
+            "importanceScore": 213.0
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 76.33333333333333
+        }
+    ],
+    "Moist": [
+        {
+            "rank": 1,
+            "wavelength": "410",
+            "importanceScore": 1857.0
+        },
+        {
+            "rank": 2,
+            "wavelength": "535",
+            "importanceScore": 1513.6666666666667
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 1287.0
+        },
+        {
+            "rank": 4,
+            "wavelength": "460",
+            "importanceScore": 1196.0
+        },
+        {
+            "rank": 5,
+            "wavelength": "610",
+            "importanceScore": 1114.0
+        },
+        {
+            "rank": 6,
+            "wavelength": "680",
+            "importanceScore": 993.3333333333334
+        },
+        {
+            "rank": 7,
+            "wavelength": "860",
+            "importanceScore": 985.0
+        },
+        {
+            "rank": 8,
+            "wavelength": "560",
+            "importanceScore": 909.6666666666666
+        },
+        {
+            "rank": 9,
+            "wavelength": "585",
+            "importanceScore": 872.0
+        },
+        {
+            "rank": 10,
+            "wavelength": "510",
+            "importanceScore": 870.3333333333334
+        },
+        {
+            "rank": 11,
+            "wavelength": "435",
+            "importanceScore": 865.3333333333334
+        },
+        {
+            "rank": 12,
+            "wavelength": "645",
+            "importanceScore": 680.3333333333334
+        },
+        {
+            "rank": 13,
+            "wavelength": "810",
+            "importanceScore": 392.0
+        },
+        {
+            "rank": 14,
+            "wavelength": "705",
+            "importanceScore": 303.0
+        },
+        {
+            "rank": 15,
+            "wavelength": "730",
+            "importanceScore": 291.6666666666667
+        },
+        {
+            "rank": 16,
+            "wavelength": "760",
+            "importanceScore": 287.3333333333333
+        },
+        {
+            "rank": 17,
+            "wavelength": "900",
+            "importanceScore": 211.33333333333334
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 67.0
+        }
+    ],
+    "EC": [
+        {
+            "rank": 1,
+            "wavelength": "535",
+            "importanceScore": 1581.6666666666667
+        },
+        {
+            "rank": 2,
+            "wavelength": "410",
+            "importanceScore": 1551.0
+        },
+        {
+            "rank": 3,
+            "wavelength": "485",
+            "importanceScore": 1216.6666666666667
+        },
+        {
+            "rank": 4,
+            "wavelength": "610",
+            "importanceScore": 1036.0
+        },
+        {
+            "rank": 5,
+            "wavelength": "560",
+            "importanceScore": 959.3333333333334
+        },
+        {
+            "rank": 6,
+            "wavelength": "460",
+            "importanceScore": 920.0
+        },
+        {
+            "rank": 7,
+            "wavelength": "680",
+            "importanceScore": 912.0
+        },
+        {
+            "rank": 8,
+            "wavelength": "860",
+            "importanceScore": 860.0
+        },
+        {
+            "rank": 9,
+            "wavelength": "585",
+            "importanceScore": 818.6666666666666
+        },
+        {
+            "rank": 10,
+            "wavelength": "645",
+            "importanceScore": 628.6666666666666
+        },
+        {
+            "rank": 11,
+            "wavelength": "435",
+            "importanceScore": 627.3333333333334
+        },
+        {
+            "rank": 12,
+            "wavelength": "510",
+            "importanceScore": 611.0
+        },
+        {
+            "rank": 13,
+            "wavelength": "760",
+            "importanceScore": 371.3333333333333
+        },
+        {
+            "rank": 14,
+            "wavelength": "730",
+            "importanceScore": 319.6666666666667
+        },
+        {
+            "rank": 15,
+            "wavelength": "810",
+            "importanceScore": 284.0
+        },
+        {
+            "rank": 16,
+            "wavelength": "705",
+            "importanceScore": 265.3333333333333
+        },
+        {
+            "rank": 17,
+            "wavelength": "900",
+            "importanceScore": 253.33333333333334
+        },
+        {
+            "rank": 18,
+            "wavelength": "940",
+            "importanceScore": 104.66666666666667
+        }
+    ]
+}

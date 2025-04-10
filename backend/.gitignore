@@ -1,0 +1,29 @@
+# backend/.gitignore
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+model/
+.model/
+
+# Generated API data and models
+api_data/
+trained_soil_models_full/
+trained_soil_models_reduced/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
